@@ -1,2 +1,2 @@
 # segundaEntregaNodeJS
-# Archivo principal: src/index.js
+# Archivo principal: src/app.js
